@@ -1,4 +1,4 @@
-Non-feline collaborators:
+**Non-feline collaborators:**
 
 [Paula Rubio-Fernandez](https://www.austinabaker.com/)  
 
