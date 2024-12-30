@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle:  Department of Philosophy, Classics, History of Art and Ideas | University of Oslo 
+subtitle:   
 
 profile:
   align: left
