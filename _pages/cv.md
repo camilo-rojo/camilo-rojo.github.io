@@ -1,11 +1,11 @@
+
 ---
-layout: cv
+layout: page
 permalink: /cv/
 title: cv
+description:  
 nav: true
 nav_order: 5
-cv_pdf: CRR-cv.pdf # you can also use external links here
-description: Click on the icon to download a copy of my CV.
-toc:
-  sidebar: left
 ---
+
+[Click here to download a copy of my CV](http://www.filippodomaneschi.com/)
