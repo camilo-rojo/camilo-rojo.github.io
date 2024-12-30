@@ -1,3 +1,6 @@
+
+<img src="meme_lola.jpg" width="200">
+
 Here is a picture of me with my most important collaborators, my cats María Remedios (bottom) and Dolores (top), or Meme and Lola for short.  
 
 I am wearing my favorite socks, which were a present from [Austin Baker](https://www.austinabaker.com/).   
