@@ -1,15 +1,18 @@
-**Non-feline collaborators:**
+**Frequent, non-feline collaborators:**
 
-[Paula Rubio-Fernandez](https://www.austinabaker.com/)  
+[Filippo Domaneschi](http://www.filippodomaneschi.com/) 
 
-[Daniela Palleschi](https://www.austinabaker.com/). 
+[Ernesto Guerra](https://scholar.google.de/citations?user=7cx89-4AAAAJ&hl=fr) 
 
-[Ingrid Lossius Falkum](https://www.austinabaker.com/). 
+[Pia Knoeferle](https://amor.cms.hu-berlin.de/~knoeferp/index.html) 
 
-[Filippo Domaneschi](https://www.austinabaker.com/). 
+[Rebecca Kvisler Iversen](https://www.hf.uio.no/ifikk/english/people/aca/philosophy/temporary/rebecci/index.html)  
 
-[Ira Noveck](https://www.austinabaker.com/). 
+[Ingrid Lossius Falkum](https://www.hf.uio.no/ifikk/english/people/aca/philosophy/tenured/ingridlf/) 
 
-[Pia Knoeferle](https://www.austinabaker.com/). 
+[Ira Noveck](https://sites.google.com/site/iranoveck/home) 
 
-[Valentina Pescuma](https://www.austinabaker.com/). 
+[Daniela Palleschi](https://daniela-palleschi.github.io/) 
+
+[Paula Rubio-Fernandez](https://www.mpi.nl/people/rubio-fernandez-paula)  
+
