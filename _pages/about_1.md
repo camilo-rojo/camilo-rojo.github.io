@@ -14,5 +14,5 @@
 
 [Daniela Palleschi](https://daniela-palleschi.github.io/) 
 
-[Paula Rubio-Fernandez](https://www.mpi.nl/people/rubio-fernandez-paula)  
+[Paula Rubio-Fernández](https://www.mpi.nl/people/rubio-fernandez-paula)  
 
