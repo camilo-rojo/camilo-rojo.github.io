@@ -9,7 +9,7 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>email: camilo.rodriguez.ronderos(at)gmail.com</p>
+    <p>email: camroro(at)proton.me</p>
     <p> </p>
     <p> </p>
 
