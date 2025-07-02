@@ -6,8 +6,6 @@
 
 [Pia Knoeferle](https://amor.cms.hu-berlin.de/~knoeferp/index.html) 
 
-[Rebecca Kvisler Iversen](https://www.hf.uio.no/ifikk/english/people/aca/philosophy/temporary/rebecci/index.html)  
-
 [Ingrid Lossius Falkum](https://www.hf.uio.no/ifikk/english/people/aca/philosophy/tenured/ingridlf/) 
 
 [Ira Noveck](https://sites.google.com/site/iranoveck/home) 
