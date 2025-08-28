@@ -1,5 +1,7 @@
 **Frequent, non-feline collaborators:**
 
+[Dale Barr](https://www.gla.ac.uk/schools/psychologyneuroscience/staff/dalebarr/) 
+
 [Filippo Domaneschi](http://www.filippodomaneschi.com/) 
 
 [Ernesto Guerra](https://scholar.google.de/citations?user=7cx89-4AAAAJ&hl=fr) 
