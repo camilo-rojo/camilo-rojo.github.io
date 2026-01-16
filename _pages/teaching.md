@@ -7,55 +7,67 @@ nav: true
 nav_order: 6
 ---
 
-#### University of Oslo
+#### Lund University
+
+Psycholinguistics (LINN16)
+
+- Spring, 2026
+- Graduate seminar, co-taught with Mikael Roll 
+- Language of instruction: English 
+
+Diversity of the world's languages (SASH26)
+
+- Spring, 2026
+- Undergraduate course, co-taught with Benjamin Macaulay 
+- Language of instruction: English 
+
+#### Previous courses in other institutions
 
 Designing, programming and analyzing Pupillometry experiments for linguistic Research  
 - Winter, 2025
-- Graduate workshop 
+- Graduate workshop, University of Oslo 
 - Language of instruction: English 
 
 Designing, programming and analyzing Eye-Tracking experiments for linguistic Research  
 - Summer, 2024
-- Graduate block seminar 
+- Graduate block seminar, University of Oslo
 - Language of instruction: English 
 
 LING2100 - Semantics and Pragmatics 2  
 - Spring, 2024
-- Advanced linguistics undergraduate course 
+- Advanced linguistics undergraduate course, University of Oslo
 - Language of instruction: English
 - responsible for pragmatics part of the course 
 
 LING1113 - Introduction to Sociolinguistics and Psycholinguistics  
 - Spring, 2024 
-- Linguistics undergraduate course
+- Linguistics undergraduate course, University of Oslo
 - Language of instruction: English
 - co-taught with Jamie Findlay
 
 Designing, programming and analyzing Eye-Tracking experiments for linguistic Research
 - Summer, 2023
-- Graduate block seminar
+- Graduate block seminar, University of Oslo
 - Language of instruction: English
 
 
 LING1107 - language Development  
 - Spring, 2023 
-- Linguistics undergraduate course
+- Linguistics undergraduate course, University of Oslo
 - Language of instruction: English
 -	Co-taught with Ingrid Lossius Falkum
 
 LING1107 - language Development  
 - Spring, 2022
--	Linguistics undergraduate course
+-	Linguistics undergraduate course, University of Oslo
 -	Language of instruction: English
 -	Co-taught with Ingrid Lossius Falkum
 
 HON2120 - Introduction to interdisciplinary research methods for honors students  
 - Fall, 2021
--	Honors Program
+-	Honors Program, University of Oslo
 -	Language of instruction: English 
 - Co-taught with multiple instructors
-
-#### Elsewhere
 
 Programming, conducting and analyzing Eye-tracking Experiments  
 - Spring, 2023
